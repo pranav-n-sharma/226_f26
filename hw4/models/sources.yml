@@ -1,0 +1,10 @@
+sources:
+  - name: raw
+    database: DEV
+    schema: RAW
+    tables:
+      - name: user_session_channel
+        identifier: user_session_channel
+
+      - name: session_timestamp
+        identifier: session_timestamp
